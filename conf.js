@@ -1,4 +1,4 @@
 exports.config = {
   seleniumAddress: 'http://localhost:4444/wd/hub',
-  specs: ['auth-spec.js']
+  specs: ['app/app-spec.js', 'auth-e2e/auth-spec.js']
 };
