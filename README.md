@@ -1,6 +1,6 @@
-#Ng_Lms E2E Tests
+# Ng_Lms E2E Tests
 
-##Setup/Prerequisites
+## Setup/Prerequisites
 Use npm to install Protractor globally with:
 
 `npm install -g protractor`
@@ -16,7 +16,7 @@ This will start up a Selenium Server and will output a bunch of info logs. Your 
 
 
 
-##Run
+## Run
 
 * `git clone https://github.com/sirimala/ng-lms-e2e-tests.git`
 * `protractor conf.js`
